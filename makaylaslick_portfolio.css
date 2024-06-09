@@ -1,6 +1,15 @@
 .underline {
     text-decoration: underline;
 }
+.profile-pic{
+    width:200px;
+    height: auto;
+}
+
+.snowborading-pic {
+    width:200px;
+    height: auto;
+}
 
 body {
     font-family: Arial, sans-serif;
