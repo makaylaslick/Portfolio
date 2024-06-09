@@ -2,7 +2,11 @@
     text-decoration: underline;
 }
 
-
+    float: left;
+    margin-right: 20px;
+    width: 200px;
+    height: auto;
+}
 
 body {
     font-family: Arial, sans-serif;
